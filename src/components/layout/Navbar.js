@@ -7,7 +7,7 @@ const Navbar = () => {
           <Link to="/" className="brand-logo">Notebook</Link>
           <ul id="nav-mobile" className="right hide-on-med-and-down">
             <li><NavLink to="/favorites">Favourites</NavLink></li>
-        
+            
           </ul>
         </div>
       </nav>
